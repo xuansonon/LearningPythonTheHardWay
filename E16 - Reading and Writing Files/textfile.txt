@@ -1,0 +1,6 @@
+Hello there!
+I am new text!
+Nice to meet you!
+I am the first line to be appended to the file. Wooohooo!
+Hi there!
+Heyyyy!
